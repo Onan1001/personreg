@@ -1,0 +1,19 @@
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.exe.config
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.exe
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.pdb
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.csprojResolveAssemblyReference.cache
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.Form1.resources
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.Properties.Resources.resources
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.csproj.GenerateResource.Cache
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.exe
+C:\Users\dotnet\Documents\Visual Studio 2017\Projects\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.pdb
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.exe.config
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.exe
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\bin\Debug\PersonRegistry.pdb
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.csprojAssemblyReference.cache
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.Form1.resources
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.Properties.Resources.resources
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.csproj.GenerateResource.cache
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.csproj.CoreCompileInputs.cache
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.exe
+C:\Users\dotnet\Desktop\PersonRegistry\PersonRegistry\obj\Debug\PersonRegistry.pdb
